@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ... POWER BI development: Dataflows --> Data models
+- 🌱 I’m currently learning ... GitHub (!); SQL; Fabric
+- 💬 Ask me about ... Power BI!
+
 <!--
 **PBI-James/PBI-James** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
